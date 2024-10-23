@@ -17,6 +17,7 @@ The development of creaftOS has ceased in favor of craftSystem, which has been l
 In this archive, you will find:
 - Source code of the last version of creaftOS.
 - Documentation outlining the features and how to set up your own server using creaftOS.
+<!-- Where's the documentation? -->
 - Archived discussions and contributions from the community.
 
 ## Community and Contributions
